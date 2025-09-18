@@ -1,0 +1,100 @@
+1 rmdir testdir
+2 pwd
+3 ls -a
+4 rmdir testdir
+5 ls -l
+6 ls -a
+7 pwd
+8 mkdir testdir
+9 ls -l
+10 cat terminal.cpp
+11 cat terminal.cpp
+12 pwd
+13 mkdir testdir
+14 ls -l
+15 cat terminal.cpp
+16 mkdir testdir
+17 ls
+18 ls
+19 pwd
+20 pwd
+21 ls -l
+22 ls
+23 cat terminal.cpp
+24 rmdir testdir
+25 ls -l
+26 mkdir testdir
+27 cat terminal.cpp
+28 mkdir testdir
+29 cat terminal.cpp
+30 ls -a
+31 ls -l
+32 mkdir testdir
+33 ls -l
+34 ls -l
+35 ls -a
+36 rmdir testdir
+37 pwd
+38 mkdir testdir
+39 ls
+40 mkdir testdir
+41 ls -a
+42 cat terminal.cpp
+43 ls
+44 cat terminal.cpp
+45 ls -l
+46 rmdir testdir
+47 pwd
+48 ls -l
+49 rmdir testdir
+50 mkdir testdir
+51 pwd
+52 ls
+53 mkdir testdir
+54 ls -l
+55 mkdir testdir
+56 mkdir testdir
+57 rmdir testdir
+58 ls -a
+59 ls -l
+60 mkdir testdir
+61 ls -a
+62 ls -l
+63 ls
+64 pwd
+65 mkdir testdir
+66 ls -a
+67 ls -a
+68 cat terminal.cpp
+69 pwd
+70 ls -l
+71 pwd
+72 rmdir testdir
+73 cat terminal.cpp
+74 ls -a
+75 mkdir testdir
+76 cat terminal.cpp
+77 cat terminal.cpp
+78 ls
+79 ls
+80 rmdir testdir
+81 pwd
+82 pwd
+83 pwd
+84 rmdir testdir
+85 mkdir testdir
+86 rmdir testdir
+87 pwd
+88 ls -l
+89 rmdir testdir
+90 pwd
+91 mkdir testdir
+92 cat terminal.cpp
+93 rmdir testdir
+94 mkdir testdir
+95 ls -l
+96 pwd
+97 pwd
+98 ls -l
+99 ls
+100 ls
